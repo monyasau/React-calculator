@@ -1,11 +1,10 @@
-React.js Calculator
+# React.js Calculator
 This is a simple calculator built with React.js. It can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 Live Links
 You can see the calculator in action at the following links:
 
-Link 1
-Link 2
+# [ https://react-calculator-lanre.netlify.app/ ]
 How to Run Locally
 To run this calculator locally on your machine, follow these steps:
 
